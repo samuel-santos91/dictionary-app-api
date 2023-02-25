@@ -1,0 +1,6 @@
+@mixin backgroundImage($size, $attachment) {
+    background-size: $size;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: $attachment;
+  }
