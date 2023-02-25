@@ -6,7 +6,7 @@
 <br><br>
 
 ### The results will display:<br>
-### Name<br>
+### <li>Name<li>
 ### Part of speech<br>
 ### Phonetics<br>
 ### Definition<br>
