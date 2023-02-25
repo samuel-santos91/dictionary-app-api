@@ -16,7 +16,8 @@
 
 ### In case no definition is found<br>
 <img width="500" alt="Screen Shot 2023-02-24 at 22 22 14" src="https://user-images.githubusercontent.com/107240729/221344726-233066b4-75df-43a2-9e41-3bea5fec6b9f.png">
-
+<br><br>
+  
 ## Built with React.js
 
 ## Prerequisites
