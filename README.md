@@ -1,5 +1,5 @@
 # dictionary-app-api
-## Application that fetches data from a dictionary API
+## Application that fetches data from a dictionary API (React.js)
 
 ### Search for the word<br>
 <img width="500" alt="Screen Shot 2023-02-24 at 22 02 58" src="https://user-images.githubusercontent.com/107240729/221344717-fdf82292-264e-4469-bd02-4a753eda5055.png">
