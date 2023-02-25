@@ -5,7 +5,7 @@
 <img width="500" alt="Screen Shot 2023-02-24 at 22 02 58" src="https://user-images.githubusercontent.com/107240729/221344717-fdf82292-264e-4469-bd02-4a753eda5055.png">
 <br><br>
 
-### The results will display:<br>
+### <ul>The results will display:
 ## <li>Name
 ## <li>Part of speech
 ## <li>Phonetics
