@@ -6,11 +6,11 @@
 <br><br>
 
 ### The results will display:<br>
-## <li>Name<li>
-## <li>Part of speech<li>
-## <li>Phonetics<li>
-## <li>Definition<li>
-## <li>Example<li>
+## <li>Name
+## <li>Part of speech
+## <li>Phonetics
+## <li>Definition
+## <li>Example
 <img width="500" alt="Screen Shot 2023-02-25 at 18 13 10" src="https://user-images.githubusercontent.com/107240729/221344723-1057ad1f-f389-4ab5-a319-2719bdafb854.png">
 <br><br>
 
