@@ -16,3 +16,28 @@
 
 ### In case no definition is found<br>
 <img width="500" alt="Screen Shot 2023-02-24 at 22 22 14" src="https://user-images.githubusercontent.com/107240729/221344726-233066b4-75df-43a2-9e41-3bea5fec6b9f.png">
+
+## Built with React.js
+
+## Prerequisites
+
+### Install Node JS
+Refer to https://nodejs.org/en/ to install nodejs
+
+## Cloning and Running the Application in local
+
+Clone the project into local
+
+Install all the npm packages. Go into the project folder and type the following command to install all npm packages
+
+```bash
+npm install
+```
+
+In order to run the application Type the following command
+
+```bash
+npm start
+```
+
+The Application Runs on **localhost:3000** 
