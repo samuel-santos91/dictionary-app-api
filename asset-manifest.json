@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dictionary-app-api/static/css/main.39acb480.css",
+    "main.js": "/dictionary-app-api/static/js/main.c9e09706.js",
+    "static/media/library.jpg": "/dictionary-app-api/static/media/library.6323a82724cfa1cfc981.jpg",
+    "static/media/glass.png": "/dictionary-app-api/static/media/glass.a27091ef0c45faf8a66e.png",
+    "index.html": "/dictionary-app-api/index.html",
+    "main.39acb480.css.map": "/dictionary-app-api/static/css/main.39acb480.css.map",
+    "main.c9e09706.js.map": "/dictionary-app-api/static/js/main.c9e09706.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39acb480.css",
+    "static/js/main.c9e09706.js"
+  ]
+}
