@@ -3,6 +3,8 @@
 .def-area {
   margin: auto;
   width: 50vw;
+  z-index: 1;
+  
   @media (max-width: 750px) {
     width: 70vw;
   }
@@ -40,8 +42,8 @@
     }
     button {
       margin-right: 0.5rem;
-      @include backgroundImage(cover, none);
-      background-image: url(../../images/sound.png);
+      @include backgroundImage(cover); 
+      background-image: url(../images/sound.png);
       border-style: none;
       width: 1.2rem;
       background-color: white;

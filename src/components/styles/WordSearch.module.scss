@@ -21,8 +21,8 @@
     }
   }
   button {
-    background-image: url(../../images/glass.png);
-    @include backgroundImage(1rem, none);
+    background-image: url(../images/glass.png);
+    @include backgroundImage(1rem); 
     background-color: rgb(255, 217, 0);
     width: 2rem;
     height: 2rem;
@@ -41,5 +41,5 @@
   transform: none;
   background-color: rgb(48, 48, 48);
   padding: 1rem;
-  z-index: 1;
+  z-index: 2;
 }
