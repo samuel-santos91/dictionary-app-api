@@ -7,8 +7,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-image: url(./images/library.jpg);
-  @include backgroundImage(cover, fixed);
+  background-image: url(./components/images/library.jpg);
+  @include backgroundImage(cover);
   width: 100%;
   height: 100vh; 
 }
@@ -17,3 +17,6 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+//TEST POSITION FIXED
+//MAKE ANOTHER CONTAINER(POSTION FIXED) THAT HAS CHILD (DEFINITION) POSITION ABSOLUTE

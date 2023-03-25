@@ -15,7 +15,7 @@ const DefList = (props) => {
         if (!res.ok) {
           setWord([]);
           setNotFound(props.displayData);
-          return
+          return;
         } else {
           setNotFound("");
           return res.json();
@@ -29,18 +29,19 @@ const DefList = (props) => {
 
   return (
     <div className={classes.list}>
-      <header/>
+      <header />
+      <div className={classes["bg-image"]} />
       <NotFound notFound={notFound} />
       {word !== undefined &&
         word.map((info) => (
           <DefDisplay
             key={Math.random()}
             word={info.word}
-            phonetics={info.phonetics}          
-            definition={info.meanings} 
+            phonetics={info.phonetics}
+            definition={info.meanings}
           />
         ))}
-        <footer/>
+      <footer />
     </div>
   );
 };
