@@ -1,15 +1,21 @@
 # dictionary-app-api
 ## Application that fetches data from a dictionary API
 
-### Type the task<br>
-<img width="500" alt="Screen Shot 2023-04-17 at 21 30 48" src="https://user-images.githubusercontent.com/107240729/232473668-3342c1bc-69fd-4622-ac3c-34e6f33a9b4e.png">
-<img width="500" alt="Screen Shot 2023-04-17 at 21 31 37" src="https://user-images.githubusercontent.com/107240729/232473898-6d2ff329-e854-4c15-9010-244ee596b6eb.png">
+### Search for a word<br>
+<img width="500" alt="Screen Shot 2023-04-17 at 21 52 19" src="https://user-images.githubusercontent.com/107240729/232476798-b5a83341-47fb-49f6-9100-e7aaba9d4521.png">
 
-### Mark it as done<br>
-<img width="500" alt="Screen Shot 2023-04-17 at 21 31 58" src="https://user-images.githubusercontent.com/107240729/232474175-23fee1ce-5598-40d8-a0be-a6ab0cdbff33.png">
+### Fetch the definition<br>
+<li>Word</li>
+<li>Part of Speech</li>
+<li>Phonetics</li>
+<li>Definition</li>
+<li>Example</li><br>
 
-### Edit or delete<br>
-<img width="500" alt="Screen Shot 2023-04-17 at 21 32 13" src="https://user-images.githubusercontent.com/107240729/232474260-b9e1d732-ebb0-4947-a948-76c4c7f55272.png">
+<img width="500" alt="Screen Shot 2023-04-17 at 21 52 47" src="https://user-images.githubusercontent.com/107240729/232476944-327d8d72-4ae3-48a2-bbcd-cc514213c0f6.png">
+
+
+### Mispelling<br>
+<img width="500" alt="Screen Shot 2023-04-17 at 21 53 16" src="https://user-images.githubusercontent.com/107240729/232478212-aa3c8839-b733-4c46-b1a0-eaf1b6c68bab.png">
 
   
 ## Built with React.js
