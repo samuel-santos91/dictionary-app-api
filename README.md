@@ -1,22 +1,16 @@
 # dictionary-app-api
 ## Application that fetches data from a dictionary API
 
-### Search for the word<br>
-<img width="500" alt="Screen Shot 2023-02-24 at 22 02 58" src="https://user-images.githubusercontent.com/107240729/221344717-fdf82292-264e-4469-bd02-4a753eda5055.png">
-<br>
+### Type the task<br>
+<img width="500" alt="Screen Shot 2023-04-17 at 21 30 48" src="https://user-images.githubusercontent.com/107240729/232473668-3342c1bc-69fd-4622-ac3c-34e6f33a9b4e.png">
+<img width="500" alt="Screen Shot 2023-04-17 at 21 31 37" src="https://user-images.githubusercontent.com/107240729/232473898-6d2ff329-e854-4c15-9010-244ee596b6eb.png">
 
-## The results will display:<br>
-### <li>Name
-### <li>Part of speech
-### <li>Phonetics
-### <li>Definition
-### <li>Example
-<img width="500" alt="Screen Shot 2023-02-25 at 18 13 10" src="https://user-images.githubusercontent.com/107240729/221344723-1057ad1f-f389-4ab5-a319-2719bdafb854.png">
-<br>
+### Mark it as done<br>
+<img width="500" alt="Screen Shot 2023-04-17 at 21 31 58" src="https://user-images.githubusercontent.com/107240729/232474175-23fee1ce-5598-40d8-a0be-a6ab0cdbff33.png">
 
-### In case no definition is found<br>
-<img width="500" alt="Screen Shot 2023-02-24 at 22 22 14" src="https://user-images.githubusercontent.com/107240729/221344726-233066b4-75df-43a2-9e41-3bea5fec6b9f.png">
-<br>
+### Edit or delete<br>
+<img width="500" alt="Screen Shot 2023-04-17 at 21 32 13" src="https://user-images.githubusercontent.com/107240729/232474260-b9e1d732-ebb0-4947-a948-76c4c7f55272.png">
+
   
 ## Built with React.js
 
